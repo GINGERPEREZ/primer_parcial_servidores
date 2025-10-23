@@ -7,3 +7,15 @@
 [submodule "actividad/05_GraphqlpracticasMGB"]
 	path = actividad/05_GraphqlpracticasMGB
 	url = https://github.com/GINGERPEREZ/GraphqlpracticasMGB.git
+[submodule "mesaya/mesaya_rest"]
+	path = mesaya/mesaya_rest
+	url = https://github.com/lesquel/mesaYa_Res.git
+[submodule "actividad/04_actividad_rest_domain_nest"]
+	path = actividad/04_actividad_rest_domain_nest
+	url = https://github.com/lesquel/actividad_rest_domain_nest.git
+[submodule "actividad/03_domain_orm"]
+	path = actividad/03_domain_orm
+	url = https://github.com/lesquel/domain_orm.git
+[submodule "mesaya/mesaya_frontend"]
+	path = mesaya/mesaya_frontend
+	url = https://github.com/StevSant/mesaYa_frontend.git
