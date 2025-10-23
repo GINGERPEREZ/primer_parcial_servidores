@@ -1,0 +1,6 @@
+[submodule "actividad/02_dominio"]
+	path = actividad/02_dominio
+	url = https://github.com/GINGERPEREZ/Practica2MB.git
+[submodule "mesaya/mesaya_ws"]
+	path = mesaya/mesaya_ws
+	url = https://github.com/GINGERPEREZ/websocket.git
