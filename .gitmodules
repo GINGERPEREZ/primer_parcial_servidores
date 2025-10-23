@@ -4,3 +4,6 @@
 [submodule "mesaya/mesaya_ws"]
 	path = mesaya/mesaya_ws
 	url = https://github.com/GINGERPEREZ/websocket.git
+[submodule "actividad/05_GraphqlpracticasMGB"]
+	path = actividad/05_GraphqlpracticasMGB
+	url = https://github.com/GINGERPEREZ/GraphqlpracticasMGB.git
